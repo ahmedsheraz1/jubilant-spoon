@@ -1,10 +1,10 @@
 ---
-name: Task to do
-about: Ahmed Sheraz.
-title: 'Ahmed Sheraz'
+name: task to do
+about: ahmed sheraz
+title: 'ahmed sheraz'
 labels: ''
-assignees: 'Ahmed Sheraz'
-status: 'Done'
+assignees: 'ahmed sheraz'
+status: 'done'
 ---
 
 
