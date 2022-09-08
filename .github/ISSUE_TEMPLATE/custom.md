@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: Task to do
 about: Ahmed Sheraz.
 title: 'Ahmed Sheraz'
 labels: ''
