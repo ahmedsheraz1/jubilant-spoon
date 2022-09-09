@@ -1,6 +1,6 @@
 ---
 name: task to do
-about: 'ahmed sheraz'
+about: ahmed sheraz
 title: 'ahmed sheraz'
 labels: ''
 assignees: 'ahmedsheraz1'
