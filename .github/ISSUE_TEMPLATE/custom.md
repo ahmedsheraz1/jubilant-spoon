@@ -1,10 +1,10 @@
 ---
-Name: Task to do
-About: Ahmed sheraz
-Title: 'Ahmed sheraz'
-Labels: ''
-Assignees: 'ahmedsheraz1'
-Status: 'Done'
+name: task to do
+about: 'ahmed sheraz'
+title: 'ahmed sheraz'
+labels: ''
+assignees: 'ahmedsheraz1'
+status: 'done'
 ---
 
 
